@@ -1,8 +1,7 @@
-# tws-CMPS-Senior-Project
 # Shoppywise - CMPS Senior Project
 Welcome to the GitHub repository for Shoppywise, a senior project developed as part of the Computer Science curriculum. It aims to create an innovative e-commerce platform that leverages machine learning techniques to provide personalized shopping experiences for users. This project is built using Next.js for the frontend, MongoDB as the database, and incorporates various machine learning models for recommendation, sentiment analysis, and more.
 
-# Features
+## Features
 Shoppywise offers the following key features:
 
 User Authentication: Secure user registration and login system.
@@ -27,16 +26,16 @@ Machine Learning Integration: Utilizes machine learning models for various featu
 
 Responsive Design: Fully responsive web design for optimal user experience on different devices.
 
-# Deployment
+## Deployment
 To deploy Shoppywise, you can use platforms like Heroku or your preferred hosting service for the frontend and Node.js backend. Utilize Cloudflare for CDN services to optimize content delivery. For the machine learning components, deploy them on Google Cloud or the platform that best suits your needs. Make sure to set up production-ready MongoDB and secure your environment variables.
 
-# Live Version
+## Live Version
 Check out the live version of the project at https://tws-next.herokuapp.com.
 
-# Contributing
+## Contributing
 Contributions to Shoppywise are welcome! Feel free to open issues or create pull requests for bug fixes, enhancements, or new features.
 
-# License
+## License
 This project is licensed under the MIT License.
 
 Thank you for your interest in Shoppywise! If you have any questions or need further assistance, please don't hesitate to reach out to us.
